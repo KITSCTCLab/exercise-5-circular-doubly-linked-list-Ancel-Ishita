@@ -148,4 +148,4 @@ for i in range(len(operations)):
 
 
 
-print(result
+print(result)
